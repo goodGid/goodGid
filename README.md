@@ -19,7 +19,7 @@ There is almost everything about me. 😄
 - ⚡ Fun fact: ...
 -->
 
-![goodGid github stats](https://github-readme-stats.vercel.app/api?username=goodGid&count_private=true&show_icons=true&title_color=f7f307&icon_color=02b062&text_color=ffffff&bg_color=180175)
+![goodGid github stats](https://github-readme-stats.vercel.app/api?username=goodGid)
 
 
 **Languages and Tools:**  
