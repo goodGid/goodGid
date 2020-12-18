@@ -16,7 +16,7 @@ There is almost everything about me. 😄
 
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=goodgid&show_icons=true" width="450"/> 
+<img src="https://github-readme-stats.vercel.app/api?username=goodgid&show_icons=true" width="440"/> 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=goodGid&layout=compact&theme=buefy" alt="languages" height="175">
 </p>
 
