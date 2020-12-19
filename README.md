@@ -25,7 +25,7 @@ There is almost everything about me. 😄
 
 
 
-**Languages and Tools:**  
+**Languages and Tools**
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="30" src="https://github.com/spring-projects/spring-framework/blob/master/src/docs/spring-framework.png"></code>
@@ -34,6 +34,25 @@ There is almost everything about me. 😄
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="30" src="https://camo.githubusercontent.com/fe0ad6650996bc191a8d012b1e1e5afde386a410/68747470733a2f2f64657669636f6e732e6769746875622e696f2f64657669636f6e2f64657669636f6e2e6769742f69636f6e732f6769746875622f6769746875622d6f726967696e616c2e737667"></code>
+
+
+
+**Media**
+
+<a href="https://careers.linecorp.com/people/11">
+<img width="308" src="https://media-exp1.licdn.com/dms/image/sync/C5627AQE4GC9axMJHFQ/articleshare-shrink_480/0/1608297599887?e=1608472800&amp;v=beta&amp;t=KfR_kHKAy8PJE5qThwHC33KnwJ4YDSdRMGla0jnpkjg">
+</a>
+
+[LINER's Interview](https://careers.linecorp.com/people/11)
+
+
+
+
+
+
+
+
+
 
 
 <!--
