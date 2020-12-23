@@ -40,7 +40,7 @@ There is almost everything about me. 😄
 **Media**
 
 <a href="https://careers.linecorp.com/people/11">
-  <img width="308" src="https://github.com/goodGid/goodGid.github.io/blob/845043d634ade05ef6b23c66b342e56f9e180609/assets/img/readme_logo.jpg">
+  <img width="308" src="https://github.com/goodGid/goodGid.github.io/blob/d3588915f5/assets/img/readme_logo.jpg">
 </a>
 
 [LINER's Interview](https://careers.linecorp.com/people/11)
