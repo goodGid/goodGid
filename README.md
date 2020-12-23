@@ -40,22 +40,13 @@ There is almost everything about me. 😄
 **Media**
 
 <a href="https://careers.linecorp.com/people/11">
-<img width="308" src="https://careers.linecorp.com/static/202076a278474808ac9e524b8c4bcf58-c8db32a088bd8a9079d1fb76349d84f9.jpeg">
+  <img width="308" src="https://github.com/goodGid/goodGid.github.io/blob/845043d634ade05ef6b23c66b342e56f9e180609/assets/img/readme.jpg">
 </a>
 
 [LINER's Interview](https://careers.linecorp.com/people/11)
 
 
 
-<img width="308" src="https://github.com/goodGid/goodGid.github.io/blob/845043d634ade05ef6b23c66b342e56f9e180609/assets/img/readme_logo_1.jpg">
-
-<img width="308" src="https://github.com/goodGid/goodGid.github.io/blob/845043d634ade05ef6b23c66b342e56f9e180609/assets/img/readme_logo_2.jpg">
-
-<img width="308" src="https://github.com/goodGid/goodGid.github.io/blob/845043d634ade05ef6b23c66b342e56f9e180609/assets/img/readme_logo_3.jpg">
-
-<img width="308" src="https://github.com/goodGid/goodGid.github.io/blob/845043d634ade05ef6b23c66b342e56f9e180609/assets/img/readme_logo_4.jpg">
-
-<img width="308" src="https://github.com/goodGid/goodGid.github.io/blob/845043d634ade05ef6b23c66b342e56f9e180609/assets/img/readme_logo_5.jpg">
 
 
 
