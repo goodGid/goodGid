@@ -47,6 +47,16 @@ There is almost everything about me. 😄
 
 
 
+<img width="308" src="https://github.com/goodGid/goodGid.github.io/blob/845043d634ade05ef6b23c66b342e56f9e180609/assets/img/readme_logo_1.jpg">
+
+<img width="308" src="https://github.com/goodGid/goodGid.github.io/blob/845043d634ade05ef6b23c66b342e56f9e180609/assets/img/readme_logo_2.jpg">
+
+<img width="308" src="https://github.com/goodGid/goodGid.github.io/blob/845043d634ade05ef6b23c66b342e56f9e180609/assets/img/readme_logo_3.jpg">
+
+<img width="308" src="https://github.com/goodGid/goodGid.github.io/blob/845043d634ade05ef6b23c66b342e56f9e180609/assets/img/readme_logo_4.jpg">
+
+<img width="308" src="https://github.com/goodGid/goodGid.github.io/blob/845043d634ade05ef6b23c66b342e56f9e180609/assets/img/readme_logo_5.jpg">
+
 
 
 
