@@ -5,7 +5,7 @@
 
 I’m BE Developer
 
-Come to [My Github World](http://goodgid.github.io/) : )
+Come to [My Github World](https://letmegooglethat.com/?q=goodgid.github.io) : )
 
 There is almost everything about me. 😄
 
