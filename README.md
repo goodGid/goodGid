@@ -39,7 +39,7 @@ There is almost everything about me. 😄
 
 **Media**
 
-<a href="https://careers.linecorp.com/people/11">
+<a href="https://goodgid.github.io/2020-LINER-Interview/">
   <img width="308" src="https://github.com/goodGid/goodGid.github.io/blob/d3588915f5/assets/img/readme_logo.jpg">
 </a>
 
