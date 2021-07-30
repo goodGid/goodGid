@@ -43,7 +43,7 @@ There is almost everything about me. 😄
   <img width="308" src="https://github.com/goodGid/goodGid.github.io/blob/d3588915f5/assets/img/readme_logo.jpg">
 </a>
 
-[LINER's Interview](https://careers.linecorp.com/people/11)
+[LINER's Interview](https://goodgid.github.io/2020-LINER-Interview/)
 
 
 
