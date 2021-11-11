@@ -1,3 +1,4 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Welcome%20to%20my%20zone!%20🙌&fontSize=36&fontAlign=70&fontAlignY=40)
 
 <p> <img src="https://komarev.com/ghpvc/?username=goodGid" alt="hedythedev" /> </p>
 
@@ -39,16 +40,11 @@ There is almost everything about me. 😄
 
 **Media**
 
-<div>
-
 <a href="https://goodgid.github.io/2021-Kakaobank-Interview/">
   <img width="308" src="https://github.com/goodGid/goodGid.github.io/blob/master/assets/img/posts/2021-Kakaobank-Interview_8.png">
 </a>
 
 [2021 카카오뱅크 직원 신분으로 문화일보와 인터뷰를 하다.](https://goodgid.github.io/2021-Kakaobank-Interview/)
-
-
-
 
 <a href="https://goodgid.github.io/2020-LINER-Interview/">
   <img width="308" src="https://github.com/goodGid/goodGid.github.io/blob/d3588915f5/assets/img/readme_logo.jpg">
@@ -56,14 +52,7 @@ There is almost everything about me. 😄
 
 [2020 LINE 채용 홈페이지 - LINER 인터뷰](https://goodgid.github.io/2020-LINER-Interview/)
 
-  </div>
-
-
-
-
-
-
-
+![footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=170&section=footer&reversal=true&fontSize=26&fontAlign=85&animation=twinkling&fontAlignY=70&text=🍻☕🍌🍜🍳)
 
 
 
@@ -80,3 +69,4 @@ There is almost everything about me. 😄
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
