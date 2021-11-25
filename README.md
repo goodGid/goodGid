@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Welcome%20to%20my%20zone!%20🙌&fontSize=36&fontAlign=70&fontAlignY=40)
-
 <p> <img src="https://komarev.com/ghpvc/?username=goodGid" alt="hedythedev" /> </p>
 
 ### Hi there 👋
@@ -18,7 +16,9 @@ There is almost everything about me. 😄
 
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=goodgid&show_icons=true" width="440"/> 
+<!--
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=goodGid&layout=compact&theme=buefy" alt="languages" height="173">
+-->
 </p>
 
 
@@ -51,10 +51,6 @@ There is almost everything about me. 😄
 </a>
 
 [2020 LINE 채용 홈페이지 - LINER 인터뷰](https://goodgid.github.io/2020-LINER-Interview/)
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=170&section=footer&reversal=true&fontSize=26&fontAlign=85&animation=twinkling&fontAlignY=70&text=🍻☕🍌🍜🍳)
-
-
 
 
 <!--
