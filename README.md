@@ -40,17 +40,9 @@ There is almost everything about me. 😄
 
 **Media**
 
-<a href="https://goodgid.github.io/2021-Kakaobank-Interview/">
-  <img width="308" src="https://github.com/goodGid/goodGid.github.io/blob/master/assets/img/posts/2021-Kakaobank-Interview_8.png">
-</a>
+- [2021 카카오뱅크 직원 신분으로 문화일보와 인터뷰를 하다.](https://goodgid.github.io/2021-Kakaobank-Interview/)
 
-[2021 카카오뱅크 직원 신분으로 문화일보와 인터뷰를 하다.](https://goodgid.github.io/2021-Kakaobank-Interview/)
-
-<a href="https://goodgid.github.io/2020-LINER-Interview/">
-  <img width="308" src="https://github.com/goodGid/goodGid.github.io/blob/d3588915f5/assets/img/readme_logo.jpg">
-</a>
-
-[2020 LINE 채용 홈페이지 - LINER 인터뷰](https://goodgid.github.io/2020-LINER-Interview/)
+- [2020 LINE 채용 홈페이지 - LINER 인터뷰](https://goodgid.github.io/2020-LINER-Interview/)
 
 
 <!--
