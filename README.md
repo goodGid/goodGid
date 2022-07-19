@@ -38,9 +38,9 @@ There is almost everything about me. 😄
 
 **Career**
 
-- KakaoBank
+- [KakaoBank](https://goodgid.github.io/about)
 
-- LINE Biz+
+- [LINE Biz+](https://goodgid.github.io/about)
 
 
 
