@@ -46,6 +46,8 @@ There is almost everything about me. 😄
 
 **Media**
 
+- [[2022년] 카카오뱅크 ESG 지속가능경영보고서 책자에 들어갈 사진 촬영을 하다.](https://goodgid.github.io/2022-Kakaobank-ESG-Book-Model/)
+
 - [[2021년] 카카오뱅크 직원 신분으로 문화일보와 인터뷰를 하다.](https://goodgid.github.io/2021-Kakaobank-Interview/)
 
 - [[2020년] LINE 채용 홈페이지 - LINER 인터뷰](https://goodgid.github.io/2020-LINER-Interview/)
