@@ -40,6 +40,8 @@ There is almost everything about me. 😄
 
 - 現) [KakaoBank](https://goodgid.github.io/about)
 
+- 現) [소프트웨어 마에스트로(Software Maestro) 멘토 활동](https://goodgid.github.io//2024-Software-Maestro-Mentor-Apply-Reivew)
+
 - 前) [LINE Biz+](https://goodgid.github.io/about)
 
 
