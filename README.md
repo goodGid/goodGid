@@ -25,7 +25,7 @@ There is almost everything about me. 😄
 
 **Career**
 
-- 現) [KakaoBank](https://goodgid.github.io/about)
+- 現) [카카오뱅크](https://goodgid.github.io/about)
 
 - 現) [소프트웨어 마에스트로(Software Maestro) 멘토](https://goodgid.github.io//2024-Software-Maestro-Mentor-Apply-Pass-Reivew)
 
